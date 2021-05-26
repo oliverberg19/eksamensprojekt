@@ -29,7 +29,16 @@ margin-top: 0px;
   margin-left: 785px;
   margin-top: -700px;
   position: absolute;
+}
 
+.section2 {
+  margin-top: -800px;
+  margin-left: 75px;
+  position: absolute;
+}
+
+.mig {
+  height: 900px;
 }
 
 li a {

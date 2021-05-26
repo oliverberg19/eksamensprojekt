@@ -1,8 +1,8 @@
 body {
 margin: 0;
 padding:0;
-
 }
+
 
 
 .menu ul {
@@ -11,7 +11,6 @@ padding:0;
   flex-direction: row;
   justify-content: center;
   margin: 0;
-
 }
 
 .asidewrapper {
@@ -24,10 +23,14 @@ padding:0;
   height: 1000px;
 margin-left: 25px;
 margin-top: 0px;
-
-
 }
 
+.section1 {
+  margin-left: 785px;
+  margin-top: -700px;
+  position: absolute;
+
+}
 
 li a {
 font-size: 40px;

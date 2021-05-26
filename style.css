@@ -40,15 +40,24 @@ margin-top: 0px;
   height: 250px;
 }
 
+.section3 {
+  margin-left: 1750px;
+  margin-top: -530px;
+  position: absolute;
+}
+
+.migbillede {
+  height: 250px;
+}
 
 .section2 {
-  margin-top: -800px;
+  margin-top: -675px;
   margin-left: 75px;
   position: absolute;
 }
 
 .mig {
-  height: 900px;
+  height: 850px;
 }
 
 li a {

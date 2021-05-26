@@ -25,11 +25,21 @@ margin-left: 25px;
 margin-top: 0px;
 }
 
+.billede1 {
+  height: 125px;
+  width: 125px;
+}
+
 .section1 {
-  margin-left: 785px;
+  margin-left: 860px;
   margin-top: -700px;
   position: absolute;
 }
+
+.projekterbillede {
+  height: 250px;
+}
+
 
 .section2 {
   margin-top: -800px;

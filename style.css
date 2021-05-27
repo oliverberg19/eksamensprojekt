@@ -20,10 +20,9 @@ padding:0;
   justify-content: center;
   align-items: center;
   width: 150px;
-  height: 1000px;
-margin-left: 25px;
-margin-top: 0px;
-height: 1190px;
+  margin-left: 25px;
+  margin-top: 0px;
+  height: 1190px;
 }
 
 .billede1 {
@@ -43,7 +42,7 @@ height: 1190px;
 
 .section3 {
   margin-left: 1750px;
-  margin-top: -530px;
+  margin-top: -800px;
   position: absolute;
 }
 
@@ -59,6 +58,25 @@ height: 1190px;
 
 .mig {
   height: 850px;
+}
+
+.section4 {
+  margin-left: 2250px;
+  margin-top: 200px;
+  position: absolute;
+}
+
+.kontaktbillede {
+  height: 300px;
+}
+
+.kontaktinformationer {
+  margin-left: 980px;
+  margin-top: -150px;
+  font-family: Avenir Next Condensed;
+  font-size: 40px;
+  font-weight: normal;
+  position: absolute;
 }
 
 li a {

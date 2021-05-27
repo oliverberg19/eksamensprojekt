@@ -1,6 +1,11 @@
 body {
 margin: 0;
 padding:0;
+background: url("pics/baggrund.svg");
+background-repeat: no-repeat;
+background-size: 100% 100%;
+
+
 }
 
 

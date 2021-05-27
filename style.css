@@ -4,11 +4,7 @@ padding:0;
 background: url("pics/baggrund.svg");
 background-repeat: no-repeat;
 background-size: 100% 100%;
-
-
 }
-
-
 
 .menu ul {
   background: #F7F7F7;
@@ -56,7 +52,7 @@ background-size: 100% 100%;
 }
 
 .section2 {
-  margin-top: -565px;
+  margin-top: -542px;
   margin-left: 170px;
   position: absolute;
 }

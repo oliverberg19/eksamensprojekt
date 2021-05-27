@@ -22,7 +22,7 @@ padding:0;
   width: 150px;
   margin-left: 25px;
   margin-top: 0px;
-  height: 1190px;
+  height: 1150px;
 }
 
 .billede1 {
@@ -41,7 +41,7 @@ padding:0;
 }
 
 .section3 {
-  margin-left: 1750px;
+  margin-left: 680px;
   margin-top: -800px;
   position: absolute;
 }
@@ -51,18 +51,18 @@ padding:0;
 }
 
 .section2 {
-  margin-top: -675px;
-  margin-left: 75px;
+  margin-top: -565px;
+  margin-left: 170px;
   position: absolute;
 }
 
 .mig {
-  height: 850px;
+  height: 750px;
 }
 
 .section4 {
   margin-left: 2250px;
-  margin-top: 200px;
+  margin-top: 250px;
   position: absolute;
 }
 
@@ -92,7 +92,3 @@ ul{
   /*fjerner prikker ved hvert link*/
 list-style-type: none;
 }
-
-
-body * {
-  border:2px solid red; }

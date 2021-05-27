@@ -127,6 +127,20 @@ color: black;
 }
 /*slut css til ommig.html*/
 
+/*css til projektsider*/
+h1 {
+  font-family: Avenir Next Condensed;
+  font-size: 35 px;
+  text-decoration: none;
+  color: black;
+  font-weight: normal;
+  width: 500px;
+  margin-left: 475px;
+  margin-top: 100px;
+}
+
+/*slut css til projektsider*/
+
 ul{
   /*fjerner prikker ved hvert link*/
 list-style-type: none;
